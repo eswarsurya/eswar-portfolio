@@ -6,15 +6,27 @@ Live website: https://eswarsurya.github.io/eswar-portfolio/
 
 ## Why I Built This
 
-The portfolio gives visitors a quick way to understand my analytics work without opening every file individually. It is designed for entry level graduate analyst, data analyst, business analyst, and consulting style analytics roles.
+The portfolio gives visitors a quick way to understand my analytics work without opening every file individually. It is designed for entry-level graduate analyst, data analyst, business analyst, and consulting-style analytics roles.
 
 ## What The Portfolio Includes
 
-The portfolio includes a professional landing section, project cards linked to GitHub, a skills section, certification highlights, experience summary, and direct contact links for email, GitHub, and LinkedIn.
+- Professional landing section with GitHub and LinkedIn links.
+- Project section linking to the clean main GitHub repositories.
+- Skills section for Python, SQL, Power BI, Tableau, machine learning, and data governance-style work.
+- Certifications section for Deloitte, Quantium, and NRSC/ISRO evidence.
+- Experience and education summary.
+- Contact section with email, GitHub, and LinkedIn. Phone number is not exposed publicly.
 
-## Featured Projects
+## Featured Project Links
 
-Featured work includes human vitals anomaly detection, customer support ticket analytics, Walmart sales analytics, Formula 1 race analytics, LSTM anomaly detection, and a bike sales Tableau dashboard.
+| Project | Focus |
+| --- | --- |
+| [Human Vitals Anomaly Detection Thesis](https://github.com/eswarsurya/human-vitals-anomaly-detection-thesis) | Isolation Forest, SHAP, anomaly detection, thesis-scale ML |
+| [Customer Support Ticket Analytics BI](https://github.com/eswarsurya/customer-support-ticket-analytics-bi) | Support tickets, SLA review, BI dashboard evidence |
+| [Walmart Sales Analytics Python SQL](https://github.com/eswarsurya/walmart-sales-analytics-python-sql) | Retail sales, Python workflow, SQL-style analysis |
+| [Formula 1 Race Analytics WIP](https://github.com/eswarsurya/formula-1-race-analytics-wip) | FastF1, race result refresh, active learning project |
+| [LSTM Anomaly Detection Timeseries](https://github.com/eswarsurya/lstm-anomaly-detection-timeseries) | Time-series anomaly review and sequence modelling concepts |
+| [Bike Sales Dashboard Tableau](https://github.com/eswarsurya/bike-sales-dashboard-tableau-project) | Tableau dashboard, resale value, brand/state sales review |
 
 ## Tools Used
 
@@ -24,12 +36,12 @@ HTML5, CSS3, responsive design, GitHub Pages, GitHub profile integration, and Li
 
 The site is deployed using GitHub Pages from the main branch.
 
-## Project Notes
+## Recruiter Value
 
 This portfolio is built to show practical analytics delivery, dashboarding ability, Python and SQL problem solving, machine learning awareness, data quality thinking, and clear communication.
 
 ## Contact
 
-Email: eswarsurya89@gmail.com
-GitHub: https://github.com/eswarsurya
+Email: eswarsurya89@gmail.com  
+GitHub: https://github.com/eswarsurya  
 LinkedIn: https://www.linkedin.com/in/eswarsurya76/

@@ -21,7 +21,7 @@ Personal portfolio for **Eswar Surya Danaboina**, based in Dublin, Ireland, focu
 
 ## Primary DevOps repository
 
-[DevOps Portfolio Hub](https://github.com/eswarsurya/devops-portfolio) is being prepared as the central home for reproducible project labs. The Ansible Linux Hardening lab is in review; its GitHub Actions syntax and lint checks have passed, while real-VM validation remains pending.
+[DevOps Portfolio Hub](https://github.com/eswarsurya/devops-portfolio) is the central home for reproducible DevOps and AI-assisted operations labs. It includes project-specific READMEs and GitHub Actions workflows. Review each project’s workflow and README for the exact checks performed; passing CI does not imply a production deployment. Real cloud or VM execution is only claimed where separately documented with evidence.
 
 ## Evidence standard
 

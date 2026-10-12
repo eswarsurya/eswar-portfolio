@@ -1,41 +1,32 @@
-# Eswar Surya — Data Analytics Portfolio
+# Eswar Surya — DevOps & AWS Cloud Portfolio
 
-Personal portfolio for **Eswar Surya Danaboina**, an MSc Data Analytics graduate based in Dublin, Ireland.
-
-The site brings together my experience, analytics projects, machine-learning work, AI/automation experiments, certifications, and education in one recruiter-friendly place.
+Personal portfolio for **Eswar Surya Danaboina**, based in Dublin, Ireland, focused on DevOps, AWS Cloud, infrastructure as code, CI/CD, Linux automation, and platform engineering.
 
 ## Portfolio
 
-🌐 **Live:** https://eswardanaboina.vercel.app/
+🌐 **Live site:** https://eswardanaboina.vercel.app/ *(existing live site; DevOps redesign is not yet published)*
 
 💼 **LinkedIn:** https://www.linkedin.com/in/eswarsurya76/  
 📁 **GitHub:** https://github.com/eswarsurya  
 📧 **Email:** eswardanaboina@gmail.com
 
-## What you'll find
+## Current portfolio direction
 
-- **Experience** — operational technology/security experience plus an ISRO student internship with measurable data and reporting work.
-- **Projects** — Python, SQL, Power BI, Tableau, data engineering, machine learning, and API-based work.
-- **Featured thesis** — Human Vitals Anomaly Detection using Isolation Forest and SHAP explainability across 200,020 records.
-- **AI & Automation** — n8n workflows, APIs, AI-assisted development, and agent-based workflow exploration.
-- **Certifications** — cloud, AI, analytics, Agile/Scrum, and industry job simulations.
-- **Education** — MSc Data Analytics (2:1) and B.Tech CSE (8.39/10).
+- **Cloud & Infrastructure as Code** — AWS concepts, Terraform, infrastructure design, security and cost awareness.
+- **Containers & delivery** — Docker, CI/CD workflows, Kubernetes and GitOps concepts.
+- **Linux & automation** — Bash, Python, Ansible, configuration management and repeatable operations.
+- **Reliability & operations** — troubleshooting, monitoring concepts, SLI/SLO thinking and guarded incident-response automation.
+- **AI-assisted operations** — tool-based workflows, incident triage patterns and human-approved remediation concepts.
+- **Supporting background** — data analytics and applied machine learning, retained as complementary strengths rather than the main portfolio identity.
 
-## Design & stack
+## Primary DevOps repository
 
-The portfolio is a lightweight, responsive HTML/CSS/JavaScript site with a dark glassmorphism visual system, subtle motion, responsive layouts, and certificate previews.
+[DevOps Portfolio Hub](https://github.com/eswarsurya/devops-portfolio) is being prepared as the central home for reproducible project labs. The Ansible Linux Hardening lab is in review; its GitHub Actions syntax and lint checks have passed, while real-VM validation remains pending.
 
-## Featured repositories
+## Evidence standard
 
-| Repository | Focus |
-| --- | --- |
-| [Human Vitals Anomaly Detection Thesis](https://github.com/eswarsurya/human-vitals-anomaly-detection-thesis) | Explainable anomaly detection · Isolation Forest · SHAP |
-| [Human Vitals Anomaly API](https://github.com/eswarsurya/human-vitals-anomaly-api) | Flask REST API · Docker · ML inference |
-| [Customer Support Ticket Analytics BI](https://github.com/eswarsurya/customer-support-ticket-analytics-bi) | Power BI · Tableau · SLA · Data Quality |
-| [Formula 1 Analytics](https://github.com/eswarsurya/formula1-analytics) | FastF1 · ETL · Pandas · analytics pipeline |
-| [LSTM Time-Series Anomaly Detection](https://github.com/eswarsurya/lstm-anomaly-detection-timeseries) | Sequence modelling · time-series analysis |
-| [Walmart Sales Analytics](https://github.com/eswarsurya/walmart-sales-analytics-python-sql) | Python · SQL · retail analytics |
+Project pages should separate source availability, local test results, GitHub Actions results, and real cloud or VM deployment evidence. Do not infer production use or successful deployment from source code alone.
 
-## Purpose
+## Site implementation
 
-This repository is the presentation layer for my wider GitHub portfolio. Each project repository is intended to explain the problem, approach, tooling, evidence, and next improvements clearly enough for a technical reviewer or hiring manager to inspect the work quickly.
+The current site is a lightweight responsive HTML/CSS/JavaScript portfolio. A DevOps-focused redesign is being reviewed separately and will not replace the live website until it has been reviewed.

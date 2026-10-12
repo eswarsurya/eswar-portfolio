@@ -10,7 +10,7 @@ The site brings together my experience, analytics projects, machine-learning wor
 
 💼 **LinkedIn:** https://www.linkedin.com/in/eswarsurya76/  
 📁 **GitHub:** https://github.com/eswarsurya  
-📧 **Email:** eswarsurya89@gmail.com
+📧 **Email:** eswardanaboina@gmail.com
 
 ## What you'll find
 

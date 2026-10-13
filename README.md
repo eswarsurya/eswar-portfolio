@@ -1,32 +1,11 @@
-# Eswar Surya — DevOps & AWS Cloud Portfolio
+# eswar-portfolio
 
-Personal portfolio for **Eswar Surya Danaboina**, based in Dublin, Ireland, focused on DevOps, AWS Cloud, infrastructure as code, CI/CD, Linux automation, and platform engineering.
+Source of my portfolio site: **https://eswarsurya.github.io/eswar-portfolio/**
 
-## Portfolio
+One static page (`index.html`, no build step), published by GitHub Pages from `main`.
 
-🌐 **Live site:** https://eswardanaboina.vercel.app/ *(existing live site; DevOps redesign is not yet published)*
+- **Who:** Eswar Surya Danaboina, DevOps & Cloud Engineer, Dublin. Almost four years in DevOps (2021–2024, including a 10-month internship).
+- **Projects:** the site links to [devops-portfolio](https://github.com/eswarsurya/devops-portfolio), where every project has its own CI workflow, and to [human-vitals-anomaly-api](https://github.com/eswarsurya/human-vitals-anomaly-api).
+- **Contact:** [LinkedIn](https://www.linkedin.com/in/eswarsurya76/) · eswardanaboina@gmail.com
 
-💼 **LinkedIn:** https://www.linkedin.com/in/eswarsurya76/  
-📁 **GitHub:** https://github.com/eswarsurya  
-📧 **Email:** eswardanaboina@gmail.com
-
-## Current portfolio direction
-
-- **Cloud & Infrastructure as Code** — AWS concepts, Terraform, infrastructure design, security and cost awareness.
-- **Containers & delivery** — Docker, CI/CD workflows, Kubernetes and GitOps concepts.
-- **Linux & automation** — Bash, Python, Ansible, configuration management and repeatable operations.
-- **Reliability & operations** — troubleshooting, monitoring concepts, SLI/SLO thinking and guarded incident-response automation.
-- **AI-assisted operations** — tool-based workflows, incident triage patterns and human-approved remediation concepts.
-- **Supporting background** — data analytics and applied machine learning, retained as complementary strengths rather than the main portfolio identity.
-
-## Primary DevOps repository
-
-[DevOps Portfolio Hub](https://github.com/eswarsurya/devops-portfolio) is the central home for reproducible DevOps and AI-assisted operations labs. It includes project-specific READMEs and GitHub Actions workflows. Review each project’s workflow and README for the exact checks performed; passing CI does not imply a production deployment. Real cloud or VM execution is only claimed where separately documented with evidence.
-
-## Evidence standard
-
-Project pages should separate source availability, local test results, GitHub Actions results, and real cloud or VM deployment evidence. Do not infer production use or successful deployment from source code alone.
-
-## Site implementation
-
-The current site is a lightweight responsive HTML/CSS/JavaScript portfolio. A DevOps-focused redesign is being reviewed separately and will not replace the live website until it has been reviewed.
+The site's claims follow the same rule as my CV: experience is what I did at work; projects are what's in the repositories, and live cloud deployments are only claimed where screenshots are published.
